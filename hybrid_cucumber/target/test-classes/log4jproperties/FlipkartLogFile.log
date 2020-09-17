@@ -1,0 +1,31 @@
+2020-09-16 16:38:54,092 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 16:39:15,797 - com.base_class.Library -INFO - Identified the browser as firefox. Launching the browser
+2020-09-16 16:39:22,247 - com.base_class.Library -INFO - Launched the OrangeHRM Application
+2020-09-16 16:39:22,248 - com.base_class.Library -INFO - Browser Launched
+2020-09-16 16:39:55,201 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-16 16:39:55,201 - com.base_class.Library -INFO - Closing Browser
+2020-09-16 16:40:33,673 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 16:40:43,995 - com.base_class.Library -INFO - Identified the browser as firefox. Launching the browser
+2020-09-16 16:40:50,449 - com.base_class.Library -INFO - Launched the OrangeHRM Application
+2020-09-16 16:40:50,450 - com.base_class.Library -INFO - Browser Launched
+2020-09-16 16:41:23,056 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-16 16:41:23,056 - com.base_class.Library -INFO - Closing Browser
+2020-09-16 16:41:47,639 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 16:41:52,040 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-16 16:41:57,575 - com.base_class.Library -INFO - Launched the OrangeHRM Application
+2020-09-16 16:41:57,575 - com.base_class.Library -INFO - Browser Launched
+2020-09-16 16:42:29,712 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-16 16:42:29,713 - com.base_class.Library -INFO - Closing Browser
+2020-09-16 16:43:10,182 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 16:43:15,428 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-16 16:43:57,852 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 16:44:03,632 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-16 17:22:03,862 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 17:22:08,431 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-16 17:22:42,489 - com.base_class.Library -INFO - Starting with Browser Set Up
+2020-09-16 17:22:46,969 - com.base_class.Library -INFO - Identified the browser as chrome. Launching the browser
+2020-09-16 17:22:53,774 - com.base_class.Library -INFO - Launched the OrangeHRM Application
+2020-09-16 17:22:53,775 - com.base_class.Library -INFO - Browser Launched
+2020-09-16 17:22:54,837 - com.base_class.Library -INFO - Browser Login Successfully
+2020-09-16 17:22:56,141 - com.base_class.Library -INFO - Exiting the application and closing the browser
+2020-09-16 17:22:56,141 - com.base_class.Library -INFO - Closing Browser 
